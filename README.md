@@ -104,9 +104,9 @@ VI. The Remnant Seats Him (71–77)
 77. Amen. The Throne Is His
 
 # Published
-GitHub: https://github.com/KJC-DNN/Album126_The_Throne_Is_His/releases/tag/126.0.0
-Archive: album-126-the-throne-is-his-main-cover
-Zenodo: https://doi.org/10.5281/zenodo.24510105
+1. GitHub: https://github.com/KJC-DNN/Album126_The_Throne_Is_His/releases/tag/126.0.0
+2. Archive: album-126-the-throne-is-his-main-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24510105
 
 # Instrumental
 ## Published
